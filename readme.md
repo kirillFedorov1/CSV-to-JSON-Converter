@@ -18,7 +18,7 @@
 
 ![image](https://github.com/kirillFedorov1/CSV-to-JSON-Converter/assets/50590149/40dab0a0-0242-4194-8d85-5dd8d8a9dc04)
 
-Для конвертации файлов запустите главный скрипт с аргументом типа *string*, представляющим собой список таблиц:
+Для конвертации файлов запустите скрипт с аргументом типа *string*, представляющим собой список таблиц:
 ```bash
 python run.py --tables 'table1, table2, table3'
 ```
